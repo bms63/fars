@@ -1,11 +1,10 @@
 Package: fars
 Type: Package
-Title: What the Package Does (Title Case)
+Title: FARS Analysis (Title Case)
 Version: 0.1.0
-Author: Who wrote it
+Author: Ben Straub
 Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Description: Functions to help anaylze fatality data from United Sates.
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
